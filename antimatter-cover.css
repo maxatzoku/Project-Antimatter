@@ -1,0 +1,32 @@
+body {
+	background-image: url("cover.jpg");
+	background-size: cover;
+}
+
+.header_container {
+	height: 50px;
+}
+
+.logo_container { 
+	width: 20%;
+	margin-left: 40%;
+	float: left;
+	display: inline-block;
+	cursor: pointer;
+}
+
+#logo{ 
+	width: 100%;
+}
+
+.text{
+	width: 50%;
+	display: inline-block;
+	margin-top: 2.5%;
+	margin-left: 25%;
+	cursor: pointer;
+}
+
+#team{
+	width: 100%;
+}
